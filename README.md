@@ -1,2 +1,2 @@
 # goit-hw-01
-It
+It is my first repository!
